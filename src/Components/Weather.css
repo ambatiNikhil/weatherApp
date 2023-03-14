@@ -1,0 +1,24 @@
+.mainContainer{
+  background-image: url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultContainer{
+    height: 75vh;
+    width: 70vw;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.inputStyle{
+    height: 10%;
+    width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
